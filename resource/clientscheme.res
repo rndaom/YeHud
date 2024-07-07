@@ -3031,6 +3031,63 @@ Scheme
 				"antialias" "1"
 			}
 		}
+	
+	// CUSTOM FONTS BROESEL
+	
+		"BroeselFont12"
+		{
+			"1"
+			{
+				"name"		"Surface-Broesel"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		"BroeselFont16"
+		{
+			"1"
+			{
+				"name"		"Surface-Broesel"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		"BroeselFont20"
+		{
+			"1"
+			{
+				"name"		"Surface-Broesel"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		"BroeselFont24"
+		{
+			"1"
+			{
+				"name"		"Surface-Broesel"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		"BroeselFont28"
+		{
+			"1"
+			{
+				"name"		"Surface-Broesel"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		"BroeselFont32"
+		{
+			"1"
+			{
+				"name"		"Surface-Broesel"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//
@@ -5850,5 +5907,20 @@ Scheme
 		"15"		"resource/linux_fonts/LiberationSans-Bold.ttf"
 		"16"		"resource/linux_fonts/LiberationMono-Regular.ttf"
 		"17"		"resource/linux_fonts/FiraSans-Regular.ttf"
+		"18"
+		{
+			"font"	"resource/fonts/Surface-Broesel.otf"
+			"name" "Surface-Broesel"
+		}
+		"19"
+		{
+			"font"	"resource/fonts/Surface-Medium.otf"
+			"name" "Surface-Medium"
+		}
+		"20"
+		{
+			"font"	"resource/fonts/Surface-Sharpened.ttf"
+			"name" "SurfaceSharpened-Medium"
+		}
 	}
 }
